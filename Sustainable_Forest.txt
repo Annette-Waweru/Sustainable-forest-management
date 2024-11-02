@@ -1,0 +1,5 @@
+Some ideas on using technology on forest management:
+
+Using live maps to see the curent state of forestation within a region
+look at areas with plenty of land bare undeveloped leveled ground, not excaved etec
+Then we can give an aler to start counting
